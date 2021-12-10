@@ -1,0 +1,13 @@
+/**
+ * @name Fuck Welcome Stickers
+ * @author Neppkun#0030
+ * @version 0.0.1
+ * @invite pTmX8Nu99Y
+ * @description Hides the stupid fucking "wAvE to sAy hI" button on welcome messages
+ * @source https://github.com/Neppkun/fuck-welcome-stickers
+ * @website https://neppkun.me
+*/
+
+.welcomeCTAButtonOuter-2VwxSF {
+    display: none;
+}

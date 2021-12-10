@@ -4,9 +4,11 @@ A Discord theme for both Powercord and BetterDiscord that hides the stupid fucki
 ## Installation
 
 **For Linux users**
+
 `cd powercord/src/Powercord/themes && git clone https://github.com/Neppkun/fuck-welcome-stickers`
 
 **For Windows users**
+
 `cd powercord/src/Powercord/themes && git clone https://github.com/Neppkun/fuck-welcome-stickers`
 
 I don't know, they should be the same command I don't use Windows

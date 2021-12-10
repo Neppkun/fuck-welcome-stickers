@@ -1,0 +1,8 @@
+{
+    "name": "Fuck Welcome Stickers",
+    "description": "Removes the stupid fucking wAvE tO SaY Hi stickers from welcome messages",
+    "version": "0.0.1",
+    "author": "Neppkun#0030",
+    "theme": "./fuckwelcomestickers.theme.css",
+    "license": "MIT"
+}
